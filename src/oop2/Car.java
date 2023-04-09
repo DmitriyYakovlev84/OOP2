@@ -1,7 +1,7 @@
 package oop2;
 public class Car extends Vehicle implements Maintainable {
 
-    public Car(String modelName, int wheelsCount) {
+    public Car(String modelName,int wheelsCount) {
         super(modelName, wheelsCount);
     }
 

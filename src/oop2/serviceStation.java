@@ -2,7 +2,7 @@ package oop2;
 
 public class serviceStation {
 
-    public void check(Maintainable vehicle) {
+    public void check(Maintainable  vehicle) {
         vehicle.service();
 
 
